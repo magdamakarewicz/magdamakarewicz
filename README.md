@@ -84,6 +84,15 @@ A Java implementation of the well-known StringCalculator exercise, utilizing Tes
 - **Methodology:** Test Driven Development (TDD)
 - **Link:** [String Calculator TDD](https://github.com/magdamakarewicz/string-calculator-tdd)
 
+### [Project 7: Multithreading Tasks - in progress](https://github.com/magdamakarewicz/multithreading.git)
+This repository demonstrates the use of multithreading in Java. Currently, it includes an implementation of the Producer-Consumer pattern, with more tasks to be added in the future.
+- **Functionalities:**
+    - Demonstrates multithreading concepts and techniques
+    - Includes thread communication and synchronization examples
+    - Utilizes resource sharing and safe termination strategies
+- **Tech Stack:** Java
+- **Link:** [Multithreading Tasks](https://github.com/magdamakarewicz/multithreading.git)
+
 ## 📫 Contact Me
 
 I'm always open to discussing projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
