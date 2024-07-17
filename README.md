@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Magda!
 
-Welcome to my GitHub profile! I'm a passionate Java Developer with a unique background in civil engineering. My journey began in the construction industry, where I collaborated closely with software developers. This experience ignited my passion for programming, leading me to transition into the world of software development.
+Welcome to my GitHub profile! I'm a passionate Software Engineer with a unique background in civil engineering. My journey began in the construction industry, where I collaborated closely with software developers. This experience ignited my passion for programming, leading me to transition into the world of software development.
 
 ## About Me
 
